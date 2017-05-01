@@ -1,1 +1,1 @@
-# simpleotpgenerallyusageusage: just require otp.php in your own code such as index.php
+# simpleotpgenerallyusagethis code helps you verify your otp Password and realize a simple two-step authenticateusage: just require otp.php in your own code such as index.php
