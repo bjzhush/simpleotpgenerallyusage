@@ -1,1 +1,1 @@
-# simpleotpgenerallyusage
+# simpleotpgenerallyusageusage: just require otp.php in your own code such as index.php
